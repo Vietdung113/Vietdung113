@@ -1,15 +1,16 @@
-### Hi there 👋
 
+## 👋 Hi!, I'm Viet Dung | ML/AI Engineer .
 
-**Vietdung113/Vietdung113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Stay hungry, stay foolish**
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
+<img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development. **Mostly use:** Python, C/C++, Javascript.
+- **DayTime Job:** AI Engineer / AI Software Architect at **Vingroup Vietnam**.
+- **LinkedIn:** [linkedin.com/in/dung-doan][(https://www.linkedin.com/in/vietanhdev/](https://www.linkedin.com/in/dung-doan-ab36ba145/)).
+
+![Vietdung113's Stats](https://github-readme-stats.vercel.app/api?username=Vietdung113&theme=default&show_icons=true&hide_border=false&count_private=true)%20![Vietdung113%27s%20Stats](https://streak-stats.demolab.com/?user=Vietdung113)
