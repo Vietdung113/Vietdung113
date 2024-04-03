@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
 
-- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Web & App Development. **Mostly use:** Python, C/C++, Javascript.
+- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV). **Mostly use:** Python, C/C++, Javascript.
 - **DayTime Job:** AI Engineer / AI Software Architect at **Vingroup Vietnam**.
 - **LinkedIn:** [https://www.linkedin.com/in/dung-doan](https://www.linkedin.com/in/dung-doan-ab36ba145/).
 
