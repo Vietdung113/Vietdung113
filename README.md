@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
-<img src="https://komarev.com/ghpvc/?username=vietanhdev"> 
+<img src="https://komarev.com/ghpvc/?username=Vietdung113"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision (OpenCV), Backend Developer(FastAPI, MySQL, MongoDB, Redis, Celery). **Mostly use:** Python, C/C++, Javascript.
 - **DayTime Job:** AI Engineer / AI Software Architect at **Vingroup Vietnam**.
