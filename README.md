@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <img src="https://komarev.com/ghpvc/?username=Vietdung113"> 
 
-- **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision, Natural Language Processing, LLM, Backend Developer(FastAPI, MySQL, MongoDB, Redis, Celery). **Mostly use:** Python, C/C++, Javascript.
 - **DayTime Job:** AI Engineer / LLM Engineer at **UMI Tech - Singapore**.
 - **LinkedIn:** [https://www.linkedin.com/in/dung-doan](https://www.linkedin.com/in/dung-doan-ab36ba145/).
 
