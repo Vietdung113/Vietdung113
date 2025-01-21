@@ -12,4 +12,4 @@
 - **DayTime Job:** AI Engineer / LLM Engineer at **UMI Tech - Singapore**.
 - **LinkedIn:** [https://www.linkedin.com/in/dung-doan](https://www.linkedin.com/in/dung-doan-ab36ba145/).
 
-![Vietdung113's Stats](https://github-readme-stats.vercel.app/api?username=Vietdung113&theme=default&show_icons=true&hide_border=false&count_private=true)%20![Vietdung113%27s%20Stats](https://streak-stats.demolab.com/?user=Vietdung113)
+![Vietdung113's Stats](https://github-readme-stats.vercel.app/api?username=Vietdung113&theme=default&show_icons=true&hide_border=false&count_private=true)
